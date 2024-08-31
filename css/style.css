@@ -1,0 +1,15 @@
+*{
+    font: arial;
+}
+
+h1{
+    border: rgba(255, 0, 0, 0.699) dashed 5px;
+    margin: 30px 15px;
+    padding: 30px 20px;
+    text-align: center;
+}
+footer{
+    background-color: rgb(148, 147, 147);
+    padding: 30px;
+}
+
